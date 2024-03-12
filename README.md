@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    float sisiAlas, tinggiLimas, Volume, LuasPermukaanLimas, LuasSegitigaTegak, KelilingAlas, A;
+    float sisiAlas, tinggiLimas, Volume, LuasPermukaanLimas, LuasSegitigaTegak, KelilingAlas, ;
 
     cout << "Masukkan panjang sisi alas limas = "; cin >> sisiAlas;
     cout << "Masukkan tinggi limas = "; cin >> tinggiLimas;
