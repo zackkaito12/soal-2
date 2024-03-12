@@ -14,8 +14,6 @@ int main() {
     Volume = (sisiAlas * sisiAlas * tinggiLimas) / 3;
     cout << "Volume limas = " << Volume << endl;
 
-
-
     LuasSegitigaTegak= (sisiAlas / 2) * sqrt(tinggiLimas * tinggiLimas + (sisiAlas / 2) * (sisiAlas / 2));
     LuasPermukaanLimas = sisiAlas * sisiAlas + 4 * LuasSegitigaTegak;
     cout << "Luas permukaan limas = " << LuasPermukaanLimas << endl;
